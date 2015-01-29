@@ -1,5 +1,4 @@
-# alcatraz-case-study
-alcatraztickets.com case study for WL site
+#AlcatrazTickets.com Case Study
 
 This is a **WIP** please provide any and all feedback as you see fit. 
 
